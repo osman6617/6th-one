@@ -1,2 +1,1 @@
-# 6th-one
-strict
+# Web-Page-02
